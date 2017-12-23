@@ -3,7 +3,7 @@
 This is my attempt towards making a AutoComplete type-ahead input using HTML, CSS and pure JS
 
 #Demo
-`https://codepen.io/amit-mb/pen/dJpZJp`
+[on CodePen](https://codepen.io/amit-mb/pen/dJpZJp)
 
 # Approach
 
